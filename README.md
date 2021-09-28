@@ -1,0 +1,2 @@
+# ExercicioBaterias
+Atividade de Exercício
